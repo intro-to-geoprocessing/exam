@@ -1,0 +1,1 @@
+https://data.mobility.brussels/geoserver/bm_bike/wfs?service=wfs&version=1.1.0&request=GetFeature&typeName=bm_bike:villo&outputFormat=shape-zip&srsName=EPSG:31370

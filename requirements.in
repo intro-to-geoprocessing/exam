@@ -1,0 +1,12 @@
+pandas
+matplotlib
+jupyter
+altair
+geopandas
+descartes
+Rtree
+folium
+pysal
+contextily
+netCDF4
+rasterstats
